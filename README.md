@@ -63,6 +63,9 @@ Remotion es opcional. Para utilizarlo, configura `remotion.dir` con una ruta loc
 - Revisa `PUBLICATION_REVIEW.md` antes de crear un repositorio público.
 - Ejecuta una comprobación de secretos sobre los cambios preparados antes de cada publicación.
 
+
 ## Licencia
 
-No se ha añadido una licencia general. El proyecto mezcla código, textos, marcas y recursos con licencias propias o de terceros; hay que confirmar la titularidad de cada grupo antes de autorizar su reutilización pública. Los avisos de las fuentes se conservan en `assets/fonts/`.
+El código fuente de este proyecto se distribuye bajo la licencia MIT.
+
+Las marcas, identidades visuales, guiones, investigaciones, imágenes y demás contenidos editoriales no están incluidos en la licencia MIT. Consulta `ASSETS_AND_CONTENT.md` para conocer los detalles. Las fuentes conservan sus respectivas licencias SIL Open Font License.
