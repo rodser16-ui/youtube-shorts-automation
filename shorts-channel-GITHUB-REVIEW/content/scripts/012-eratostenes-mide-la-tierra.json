@@ -1,0 +1,35 @@
+{
+  "id": "012",
+  "slug": "eratostenes-mide-la-tierra",
+  "series": "CIENCIA",
+  "mood": "asombro",
+  "hook_text": "MIDIÓ LA TIERRA\nCON UNA SOMBRA",
+  "hook_seconds": 2.5,
+  "segments": [
+    {"text": "Hace más de dos mil doscientos años, un sabio calculó el tamaño de la Tierra con una sombra.",
+     "visual": {"image": {"source": "nasa", "nasa_id": "STS057-73-075"}, "motion": "zoom_in", "focus": [0.35, 0.9], "label": "Egipto y el Mediterráneo desde el espacio (1993)"}},
+    {"text": "Era Eratóstenes de Cirene, director de la Biblioteca de Alejandría.",
+     "visual": {"image": {"source": "commons", "file": "File:Eratosthenes.jpg"}, "motion": "zoom_out", "focus": [0.5, 0.4], "label": "Retrato idealizado (grabado antiguo)"}},
+    {"text": "En Siena, la actual Asuán, al mediodía del solsticio de verano, el Sol caía a plomo: no había sombra.",
+     "visual": {"image": {"source": "commons", "file": "File:Antonio Beato - View of Aswan - Along the Nile - 1993.94 - Cleveland Museum of Art.tif"}, "motion": "pan_lr", "label": "Asuán, la antigua Siena, hacia 1870-1880"}},
+    {"text": "En Alejandría, más al norte, a esa hora sí había sombra, de algo más de siete grados: un cincuentavo de círculo.",
+     "visual": {"kind": "stat", "value": "7,2", "suffix": "°", "count": false, "label": "inclinación del Sol en Alejandría: 1/50 de círculo", "bg": "prev"}},
+    {"text": "Si los rayos del Sol llegan paralelos, ese ángulo mide también el arco entre las dos ciudades.",
+     "visual": {"image": {"source": "commons", "file": "File:Eratosthenes measurement.jpg"}, "motion": "fit", "label": "Esquema: el ángulo de la sombra es el mismo que el del arco"}},
+    {"text": "Entre ellas había unos cinco mil estadios. Cincuenta veces eso: doscientos cincuenta mil estadios, la vuelta entera.",
+     "visual": {"kind": "stat", "value": "250000", "thousands": true, "label": "estadios de circunferencia: 50 × 5.000"}},
+    {"text": "Su libro se perdió; lo conocemos sobre todo por Cleomedes, un autor posterior.",
+     "visual": {"image": {"source": "commons", "file": "File:Cleomedes, Edinburgh, MS Adv. 18.7.15.jpg"}, "motion": "pan_ud", "label": "Manuscrito de la obra de Cleomedes (h. 1290)", "evidence": "Cleomedes, Caelestia, libro I, cap. 7"}},
+    {"text": "¿Acertó? Depende de cuánto medía un estadio, y eso aún se discute. Pero demostró que la Tierra se podía medir con una sombra.",
+     "visual": {"image": {"source": "nasa", "nasa_id": "STS057-73-075"}, "motion": "zoom_out", "focus": [0.35, 0.6]}}
+  ],
+  "title": "Eratóstenes calculó el tamaño de la Tierra con una sombra hace más de 2.200 años #ciencia",
+  "description": "En el siglo III a. C., Eratóstenes comparó la sombra del mediodía del solsticio en Siena (Asuán) y en Alejandría y obtuvo 250.000 estadios de circunferencia. Según el valor del estadio, que aún se discute, el resultado va de casi exacto a cerca de un 15 % por encima del real.",
+  "tags": ["Eratóstenes", "circunferencia de la Tierra", "Biblioteca de Alejandría", "historia de la ciencia", "astronomía", "geometría", "Antiguo Egipto", "ciencia", "Ciencia con Pruebas"],
+  "hashtags": ["#ciencia", "#historia", "#astronomia", "#shorts"],
+  "sources": [
+    "APS News, «June, ca. 240 B.C.: Eratosthenes Measures the Earth» (junio de 2006) https://www.aps.org/apsnews/2006/06/eratosthenes-measures-earth",
+    "Ohio State University, Astronomy 161, «Eratosthenes Measures the Earth» https://www.astronomy.ohio-state.edu/thompson.1847/161/measearth.html",
+    "MacTutor History of Mathematics (Univ. de St Andrews), «Eratosthenes of Cyrene» https://mathshistory.st-andrews.ac.uk/Biographies/Eratosthenes/"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "006",
+  "slug": "phineas-gage",
+  "series": "CIENCIA",
+  "mood": "misterio",
+  "hook_text": "UNA BARRA DE HIERRO\nLE ATRAVESÓ EL CRÁNEO",
+  "hook_seconds": 2.6,
+  "segments": [
+    {"text": "En 1848, una barra de hierro de más de un metro atravesó la cabeza de este hombre. Y sobrevivió.",
+     "visual": {"image": {"source": "commons", "file": "File:Phineas Gage GageMillerPhoto2010-02-17 Unretouched Color Cropped.jpg"}, "motion": "zoom_in", "focus": [0.5, 0.25]}},
+    {"text": "Phineas Gage trabajaba en la construcción de un ferrocarril en Vermont. Una explosión disparó la barra, que entró bajo su pómulo izquierdo y salió por lo alto del cráneo.",
+     "visual": {"image": {"source": "commons", "file": "File:Phineas Gage - trajectory of the bar through the skull.png"}, "motion": "fit", "label": "Trayectoria de la barra (reconstrucción)"}},
+    {"text": "La barra medía un metro diez y pesaba unos seis kilos.",
+     "visual": {"kind": "stat", "value": "6", "suffix": " KG", "label": "pesaba la barra: 1,1 metros de largo", "bg": "prev"}},
+    {"text": "Hoy, su cráneo y la barra se conservan en el Museo Anatómico Warren, de la Universidad de Harvard.",
+     "visual": {"image": {"source": "commons", "file": "File:Phineas Gage Countway Library.jpg"}, "motion": "fit", "evidence": "Museo Anatómico Warren, Harvard"}},
+    {"text": "Su médico escribió que su carácter cambió: impaciente, irreverente, incapaz de seguir sus planes. Sus amigos decían que ya no era Gage.",
+     "visual": {"kind": "title", "text": "«YA NO\nERA GAGE»", "bg": "prev"}},
+    {"text": "Su caso se convirtió en una de las primeras pistas de que el lóbulo frontal influye en nuestra personalidad.",
+     "visual": {"image": {"source": "commons", "file": "File:Simulated Connectivity Damage of Phineas Gage.png"}, "motion": "zoom_in", "focus": [0.5, 0.4], "label": "Simulación de las conexiones dañadas"}},
+    {"text": "Pero hay un giro final: años después, trabajó como conductor de diligencias en Chile. Y hoy muchos investigadores creen que se recuperó mucho más de lo que cuenta la leyenda.",
+     "visual": {"image": {"source": "commons", "file": "File:Phineas Gage GageMillerPhoto2010-02-17 Unretouched Color Cropped.jpg"}, "motion": "zoom_out", "focus": [0.5, 0.25]}}
+  ],
+  "title": "Phineas Gage: sobrevivió a una barra de hierro en la cabeza #ciencia",
+  "description": "En 1848, una barra de hierro de 1,1 m atravesó el cráneo de Phineas Gage. Sobrevivió, cambió su carácter y su caso marcó la historia de la neurociencia. Pero su historia tiene un giro que pocos cuentan.",
+  "tags": ["Phineas Gage", "neurociencia", "cerebro", "lóbulo frontal", "historia de la medicina", "psicología", "ciencia", "Ciencia con Pruebas"],
+  "hashtags": ["#ciencia", "#cerebro", "#psicologia", "#shorts"],
+  "sources": [
+    "Harlow, J. M. (1868). Recovery from the passage of an iron bar through the head. Publications of the Massachusetts Medical Society 2:327-347.",
+    "Macmillan, M. (2000). An Odd Kind of Fame: Stories of Phineas Gage. MIT Press.",
+    "https://en.wikipedia.org/wiki/Phineas_Gage"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "010",
+  "slug": "senal-wow",
+  "series": "ESPACIO",
+  "mood": "cosmos",
+  "hook_text": "LA SEÑAL\n«WOW!»",
+  "hook_seconds": 2.2,
+  "segments": [
+    {"text": "En 1977, un radiotelescopio captó una señal tan extraña que el astrónomo que la vio escribió Wow en el papel.",
+     "visual": {"image": {"source": "commons", "file": "File:Wow signal.jpg"}, "motion": "fit"}},
+    {"text": "Fue el 15 de agosto, en el radiotelescopio Big Ear, de la Universidad Estatal de Ohio. La señal duró setenta y dos segundos.",
+     "visual": {"kind": "stat", "value": "72", "suffix": " S", "label": "duró la señal"}},
+    {"text": "Venía de la dirección de la constelación de Sagitario, y en una frecuencia muy especial: cerca de 1420 megahercios, la del hidrógeno.",
+     "visual": {"image": {"source": "nasa", "query": "Spitzer Milky Way galactic center"}, "motion": "pan_lr", "label": "Centro de la Vía Láctea, hacia Sagitario"}},
+    {"text": "El código que rodeó con tinta, seis E Q U J cinco, no es un mensaje. Mide la intensidad: la U equivale a unas treinta veces el ruido de fondo.",
+     "visual": {"image": {"source": "commons", "file": "File:Wow signal.jpg"}, "motion": "zoom_in", "focus": [0.5, 0.5], "evidence": "Big Ear Radio Observatory / NAAPO"}},
+    {"text": "Se buscó una y otra vez en ese punto del cielo. Nunca volvió a aparecer.",
+     "visual": {"image": {"source": "nasa", "query": "Deep Space Network antenna Goldstone"}, "motion": "zoom_in", "label": "Radiotelescopio (NASA)"}},
+    {"text": "En 2024, un equipo propuso que pudo ser una nube de hidrógeno que brilló de golpe, como un láser natural. Pero sigue siendo una hipótesis.",
+     "visual": {"kind": "title", "text": "¿UN LÁSER\nNATURAL?"}},
+    {"text": "Y el radiotelescopio que la captó fue demolido en 1998 para hacer un campo de golf. Así que esos setenta y dos segundos son todo lo que tenemos.",
+     "visual": {"image": {"source": "commons", "file": "File:Wow signal.jpg"}, "motion": "fit"}}
+  ],
+  "title": "La señal Wow!: 72 segundos que nunca se repitieron #espacio",
+  "description": "El 15 de agosto de 1977, el radiotelescopio Big Ear captó una señal de 72 segundos cerca de la frecuencia del hidrógeno. Nunca volvió a detectarse. Esto es lo que sabemos.",
+  "tags": ["señal Wow", "Wow signal", "radiotelescopio", "Big Ear", "SETI", "espacio", "astronomía", "misterio", "Ciencia con Pruebas"],
+  "hashtags": ["#espacio", "#astronomia", "#misterio", "#shorts"],
+  "sources": [
+    "Ehman, J. R. «The Big Ear Wow! Signal: What We Know and Don't Know About It After 30 Years»: http://www.bigear.org/Wow30th/wow30th.htm",
+    "Méndez, A. et al. (2024). Arecibo Wow! I (preprint, arXiv).",
+    "Méndez, A. et al. (2025). Arecibo Wow! II (arXiv:2508.10657)."
+  ]
+}

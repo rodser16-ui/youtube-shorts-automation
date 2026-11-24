@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "name": "Canal de ejemplo",
+    "handle": "@canal-ejemplo",
+    "youtube_channel_id": "UC_REEMPLAZAR",
+    "language": "es",
+    "categoryId": "28",
+    "disclosure": "Narración sintética y fuentes indicadas en la descripción."
+  },
+  "brand": {
+    "accent": "#FFD23F",
+    "accent2": "#3EE0FF",
+    "navy": "#0B1020"
+  },
+  "voice": {
+    "provider": "edge-tts",
+    "name": "es-ES-AlvaroNeural",
+    "rate": "+12%",
+    "pitch": "-2Hz"
+  },
+  "remotion": {
+    "enabled": false,
+    "dir": "",
+    "note": "Configura una ruta local para usar Remotion; si está desactivado se usan tarjetas Pillow."
+  },
+  "publishing": {
+    "timezone": "Europe/Madrid",
+    "slots": ["19:00", "02:00"],
+    "per_day": 2,
+    "require_approval": true,
+    "active": false
+  }
+}

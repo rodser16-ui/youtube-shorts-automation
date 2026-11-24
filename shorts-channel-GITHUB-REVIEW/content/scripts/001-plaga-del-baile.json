@@ -1,0 +1,35 @@
+{
+  "id": "001",
+  "slug": "plaga-del-baile",
+  "series": "MISTERIO",
+  "mood": "misterio",
+  "hook_text": "BAILARON\nSIN PODER PARAR",
+  "hook_seconds": 2.6,
+  "segments": [
+    {"text": "En julio de 1518, una mujer salió a una calle de Estrasburgo y empezó a bailar.",
+     "visual": {"image": {"source": "commons", "file": "File:Danse Saint Guy 1518 Charles Spindler.jpg"}, "motion": "zoom_in", "focus": [0.5, 0.3], "label": "Ilustración de Charles Spindler (s. XX)"}},
+    {"text": "Siguió durante días. Y en pocas semanas, decenas de vecinos se unieron a ella.",
+     "visual": {"image": {"source": "commons", "file": "File:Twee epileptici en hun begeleiders op weg naar Molenbeek Pelgrimage naar Molenbeek (serietitel), RP-P-1904-525.jpg"}, "motion": "pan_ud", "label": "Grabado de danzantes compulsivos, s. XVI"}},
+    {"text": "Algunas crónicas posteriores hablan de hasta cuatrocientas personas bailando sin control.",
+     "visual": {"kind": "stat", "value": "400", "label": "personas, según algunas crónicas", "bg": "prev"}},
+    {"text": "¿Y qué hicieron las autoridades? Contratar músicos y gente que bailara con ellos. Creían que, bailando más, se curarían.",
+     "visual": {"image": {"source": "commons", "file": "File:Twee doedelzakspelers Pelgrimage naar Molenbeek (serietitel), RP-P-OB-75.242.jpg"}, "motion": "zoom_in", "focus": [0.5, 0.4], "label": "Grabado de músicos, s. XVI"}},
+    {"text": "Pero el brote empeoró. El 2 de agosto, el consejo dio marcha atrás y prohibió los bailes en público.",
+     "visual": {"image": {"source": "commons", "file": "File:Interdiction danse Strasbourg Sebastien Brant 1518.jpg"}, "motion": "zoom_in", "focus": [0.5, 0.35], "evidence": "Ordenanza de Estrasburgo, 2 de agosto de 1518"}},
+    {"text": "Al final, llevaron a los afectados a una capilla de San Vito, en las montañas, y el brote se fue apagando.",
+     "visual": {"image": {"source": "commons", "file": "File:Epileptici en hun begeleiders op weg naar de brug bij Molenbeek Pelgrimage naar Molenbeek (serietitel), RP-P-1904-526.jpg"}, "motion": "pan_du", "label": "Grabado de peregrinos danzantes, s. XVI"}},
+    {"text": "Hoy muchos historiadores lo explican como una enfermedad psicógena colectiva: hambre, miedo y superstición llevados al límite.",
+     "visual": {"kind": "title", "text": "ENFERMEDAD\nPSICÓGENA COLECTIVA", "bg": "prev"}},
+    {"text": "Lo que nadie sabe con certeza es por qué todo empezó con una sola mujer, en julio de 1518.",
+     "visual": {"image": {"source": "commons", "file": "File:Strasbourg, woodcut from Schedel's Weltchronik (1493), compressed.jpg"}, "motion": "fit", "label": "Estrasburgo, Crónica de Núremberg (1493)"}}
+  ],
+  "title": "La epidemia de baile de 1518: bailaron sin poder parar #historia",
+  "description": "En el verano de 1518, en Estrasburgo, decenas de personas empezaron a bailar de forma compulsiva durante semanas. Esto es lo que dicen los documentos de la época y cómo lo explican hoy los historiadores.",
+  "tags": ["epidemia de baile", "1518", "Estrasburgo", "historia", "misterios de la historia", "psicología", "curiosidades históricas", "Ciencia con Pruebas"],
+  "hashtags": ["#historia", "#misterio", "#ciencia", "#shorts"],
+  "sources": [
+    "Waller, J. (2009). A forgotten plague: making sense of dancing mania. The Lancet, 373(9664), 624-625.",
+    "Ordenanza del Magistrado de Estrasburgo, 2 de agosto de 1518 (Archives de Strasbourg, 1 MR3 f.72r) — https://www.rue89strasbourg.com/strasbourg-epidemie-de-danse-de-1518-143726",
+    "https://publicdomainreview.org/essay/the-dancing-plague-of-1518/"
+  ]
+}

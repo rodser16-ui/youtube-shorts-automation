@@ -1,0 +1,35 @@
+{
+  "id": "013",
+  "slug": "disco-de-oro-voyager",
+  "series": "ESPACIO",
+  "mood": "cosmos",
+  "hook_text": "UN DISCO DE ORO\nENTRE ESTRELLAS",
+  "hook_seconds": 2.4,
+  "segments": [
+    {"text": "Ahora mismo, en el espacio interestelar, viaja un disco de oro con instrucciones para quien lo encuentre.",
+     "visual": {"image": {"source": "commons", "file": "File:The-golden-record 30269492703 o.jpg"}, "motion": "zoom_in", "zoom": [1.0, 1.25], "center": [0.615, 0.5], "label": "El Disco de Oro de las Voyager (NASA/JPL)"}},
+    {"text": "Va a bordo de la Voyager 1, lanzada en 1977. La Voyager 2 lleva otra copia.",
+     "visual": {"image": {"source": "nasa", "nasa_id": "PIA21747"}, "motion": "pan_du", "label": "Lanzamiento de la Voyager 1, 5 de septiembre de 1977 (NASA)"}},
+    {"text": "Guarda saludos en cincuenta y cinco idiomas, sonidos de la Tierra como truenos o ballenas, y noventa minutos de música.",
+     "visual": {"image": {"source": "nasa", "nasa_id": "PIA17035"}, "motion": "zoom_in", "zoom": [1.0, 1.3], "center": [0.53, 0.8], "evidence": "NASA/JPL, Golden Record Contents"}},
+    {"text": "Y ciento quince imágenes, codificadas en forma analógica. Todo lo eligió un comité presidido por Carl Sagan.",
+     "visual": {"kind": "stat", "value": "115", "label": "imágenes codificadas en el disco", "bg": "prev"}},
+    {"text": "En la tapa, unos dibujos explican cómo reproducirlo, y un mapa de catorce púlsares indica dónde está nuestro sistema solar.",
+     "visual": {"image": {"source": "commons", "file": "File:The Sounds of Earth Record Cover - GPN-2000-001978.jpg"}, "motion": "fit", "label": "La tapa: instrucciones grabadas (NASA/JPL)"}},
+    {"text": "En 2012, la Voyager 1 fue la primera nave en salir al espacio interestelar. Ninguna ha llegado más lejos.",
+     "visual": {"kind": "timeline", "points": [{"year": "1977", "label": "Lanzamiento"}, {"year": "1998", "label": "Objeto humano más lejano"}, {"year": "2012", "label": "Espacio interestelar"}], "active": 2}},
+    {"text": "En 1977, la NASA estimó que el disco podría durar más de mil millones de años.",
+     "visual": {"kind": "stat", "value": "1000", "thousands": true, "prefix": "+", "label": "millones de años podría durar, según la NASA", "bg": "prev", "evidence": "NASA/JPL, nota de prensa de 1977"}},
+    {"text": "Mucho después de nosotros, seguirá viajando entre las estrellas, esperando a que alguien lo encuentre.",
+     "visual": {"image": {"source": "nasa", "nasa_id": "PIA17462"}, "motion": "zoom_out", "zoom": [1.25, 1.0], "center": [0.63, 0.45], "label": "Voyager 1 en el espacio interestelar (recreación, NASA/JPL)"}}
+  ],
+  "title": "El Disco de Oro de las Voyager: un mensaje para quien lo encuentre #espacio",
+  "description": "En 1977, las dos Voyager partieron con un disco de cobre bañado en oro: saludos en 55 idiomas, sonidos de la Tierra, música e imágenes elegidos por un comité presidido por Carl Sagan. Esto es lo que contiene y cuánto podría durar.",
+  "tags": ["Disco de Oro", "Voyager Golden Record", "Voyager 1", "Carl Sagan", "NASA", "espacio interestelar", "espacio", "astronomía", "Ciencia con Pruebas"],
+  "hashtags": ["#espacio", "#NASA", "#Voyager", "#shorts"],
+  "sources": [
+    "NASA Science, Voyager Golden Record: contenido (https://science.nasa.gov/mission/voyager/golden-record-contents/) y tapa (https://science.nasa.gov/mission/voyager/golden-record-cover/)",
+    "NASA Science, Voyager 1: https://science.nasa.gov/mission/voyager/voyager-1/",
+    "NASA/JPL, «Voyager Will Carry Earth Sounds Record» (1 de agosto de 1977): https://www.jpl.nasa.gov/news/voyager-will-carry-earth-sounds-record/"
+  ]
+}

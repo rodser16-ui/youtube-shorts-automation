@@ -1,0 +1,35 @@
+{
+  "id": "014",
+  "slug": "manuscrito-voynich",
+  "series": "MISTERIO",
+  "mood": "misterio",
+  "hook_text": "NADIE HA PODIDO\nLEER ESTE LIBRO",
+  "hook_seconds": 2.5,
+  "segments": [
+    {"text": "Existe un libro de unas doscientas cuarenta páginas, escrito a mano, que nadie ha conseguido leer.",
+     "visual": {"image": {"source": "commons", "file": "File:Voynich Manuscript (135).jpg"}, "motion": "zoom_in", "focus": [0.45, 0.35]}},
+    {"text": "Es el manuscrito Voynich, llamado así por el librero que lo compró en 1912. Hoy se guarda en la Biblioteca Beinecke, de la Universidad de Yale.",
+     "visual": {"image": {"source": "commons", "file": "File:Voynich Manuscript (2).jpg"}, "motion": "zoom_in", "zoom": [1.1, 1.35], "center": [0.48, 0.62], "evidence": "Beinecke MS 408, Universidad de Yale"}},
+    {"text": "Está escrito con unos signos que nadie ha identificado, por un autor desconocido.",
+     "visual": {"image": {"source": "commons", "file": "File:Voynich Manuscript (119).jpg"}, "motion": "pan_ud", "label": "Una página de texto del manuscrito"}},
+    {"text": "Y está lleno de dibujos de plantas extrañas.",
+     "visual": {"image": {"source": "commons", "file": "File:Voynich Manuscript (32).jpg"}, "motion": "zoom_in", "focus": [0.5, 0.3], "label": "Sección botánica del manuscrito"}},
+    {"text": "El catálogo de Yale describe 113 especies, todas sin identificar.",
+     "visual": {"kind": "stat", "value": "113", "label": "plantas sin identificar, según Yale", "bg": "prev"}},
+    {"text": "En 2009, la Universidad de Arizona dató su pergamino con radiocarbono: es de entre 1404 y 1438.",
+     "visual": {"image": {"source": "commons", "file": "File:Voynich manuscript (head).jpg"}, "motion": "pan_lr", "evidence": "Universidad de Arizona, radiocarbono (2009)"}},
+    {"text": "William Friedman, el criptógrafo que dirigió el equipo que rompió el cifrado japonés Púrpura, organizó grupos para descifrarlo. No lo consiguió.",
+     "visual": {"image": {"source": "commons", "file": "File:William-Friedman.jpg"}, "motion": "zoom_in", "focus": [0.5, 0.3], "label": "William F. Friedman, criptógrafo"}},
+    {"text": "Unos seis siglos después, nadie sabe qué dice este libro… ni siquiera si dice algo.",
+     "visual": {"image": {"source": "commons", "file": "File:Voynich Manuscript (135).jpg"}, "motion": "zoom_out", "focus": [0.45, 0.35]}}
+  ],
+  "title": "Manuscrito Voynich: el libro que ni los mejores criptógrafos han podido leer #misterio",
+  "description": "El manuscrito Voynich (Beinecke MS 408, Yale) está escrito en un sistema que nadie ha identificado. Su pergamino se ha datado por radiocarbono entre 1404 y 1438, y ni los mejores criptógrafos han podido descifrarlo.",
+  "tags": ["manuscrito Voynich", "Voynich", "Biblioteca Beinecke", "Yale", "criptografía", "William Friedman", "misterio", "historia", "Ciencia con Pruebas"],
+  "hashtags": ["#misterio", "#historia", "#criptografia", "#shorts"],
+  "sources": [
+    "Beinecke Rare Book & Manuscript Library (Yale), ficha de Beinecke MS 408: https://pre1600ms.beinecke.library.yale.edu/docs/pre1600.ms408.HTM y https://beinecke.library.yale.edu/collections/highlights/voynich-manuscript",
+    "Universidad de Arizona, nota de prensa sobre la datación por radiocarbono (EurekAlert, 10/02/2011): https://www.eurekalert.org/news-releases/624074 ; rango 1404-1438 en Live Science/NBC News (2011): https://www.nbcnews.com/id/wbna41581204",
+    "U.S. Army, «William F. Friedman — Master Code-Breaker»: https://www.army.mil/article/127519/william_f_friedman_master_code_breaker ; U.S. GPO, «The World's Most Enigmatic Manuscript» (sobre D'Imperio, The Voynich Manuscript: An Elegant Enigma, NSA 1978): https://govbooktalk.gpo.gov/2010/11/18/the-world%E2%80%99s-most-enigmatic-manuscript/"
+  ]
+}

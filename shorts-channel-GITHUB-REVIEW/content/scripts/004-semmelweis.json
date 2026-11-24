@@ -1,0 +1,33 @@
+{
+  "id": "004",
+  "slug": "semmelweis-lavarse-las-manos",
+  "series": "CIENCIA",
+  "mood": "epico",
+  "hook_text": "LAVARSE LAS MANOS\nLE COSTÓ TODO",
+  "hook_seconds": 2.5,
+  "segments": [
+    {"text": "En 1847, este médico descubrió cómo salvar la vida de miles de madres. Y aun así, acabó encerrado en un manicomio.",
+     "visual": {"image": {"source": "commons", "file": "File:Borsos & Doctor Semmelweis Ignác cropped.jpg"}, "motion": "zoom_in", "focus": [0.5, 0.25]}},
+    {"text": "Ignaz Semmelweis trabajaba en el Hospital General de Viena. En su clínica, muchas madres morían de fiebre después de dar a luz.",
+     "visual": {"image": {"source": "commons", "file": "File:Semmelweis Ignác 1857 Canzi Ágost.jpg"}, "motion": "pan_ud", "label": "Semmelweis, retrato de Ágost Canzi (1857)"}},
+    {"text": "Tantas, que algunas preferían dar a luz en la calle antes que entrar allí.",
+     "visual": {"kind": "title", "text": "PREFERÍAN\nDAR A LUZ EN LA CALLE", "bg": "prev"}},
+    {"text": "La pista llegó cuando su colega Jakob Kolletschka murió tras cortarse con un bisturí en una autopsia. Tenía los mismos síntomas que las madres.",
+     "visual": {"image": {"source": "commons", "file": "File:Jakob Kolletschka Litho.jpg"}, "motion": "zoom_in", "focus": [0.5, 0.3], "label": "Jakob Kolletschka, litografía"}},
+    {"text": "Semmelweis sospechó que los médicos llevaban en las manos partículas de los cadáveres. En mayo de 1847 obligó a lavárselas con cal clorada.",
+     "visual": {"image": {"source": "commons", "file": "File:Ignaz Semmelweis 1861 Etiology front page.jpg"}, "motion": "zoom_in", "focus": [0.5, 0.3], "evidence": "Semmelweis, Etiología de la fiebre puerperal (1861)"}},
+    {"text": "La mortalidad pasó del 18 por ciento en abril al 2 por ciento en junio. En 1848, bajó a poco más del 1 por ciento.",
+     "visual": {"kind": "timeline", "points": [{"year": "ABR 1847", "label": "18,3 %"}, {"year": "JUN 1847", "label": "2,2 %"}, {"year": "1848", "label": "1,27 %"}], "active": 2, "bg": "prev"}},
+    {"text": "Pero muchos colegas rechazaron su idea. En 1865 lo internaron en un manicomio, y murió dos semanas después de una infección. Como las que él había combatido.",
+     "visual": {"image": {"source": "commons", "file": "File:Semmelweis Ignác 1864.jpg"}, "motion": "zoom_out", "focus": [0.5, 0.3]}}
+  ],
+  "title": "Semmelweis: el médico que pidió lavarse las manos y lo pagó caro #ciencia",
+  "description": "En 1847, Ignaz Semmelweis redujo la mortalidad materna de su clínica del 18 % a cerca del 2 % con un gesto muy simple: lavarse las manos con cal clorada. Sus colegas no le creyeron.",
+  "tags": ["Semmelweis", "lavarse las manos", "historia de la medicina", "fiebre puerperal", "ciencia", "medicina", "historia", "Ciencia con Pruebas"],
+  "hashtags": ["#ciencia", "#medicina", "#historia", "#shorts"],
+  "sources": [
+    "Semmelweis, I. (1861). Die Ätiologie, der Begriff und die Prophylaxis des Kindbettfiebers.",
+    "Best, M. & Neuhauser, D. (2004). Ignaz Semmelweis and the birth of infection control. Qual Saf Health Care 13:233-234.",
+    "https://en.wikipedia.org/wiki/Ignaz_Semmelweis"
+  ]
+}

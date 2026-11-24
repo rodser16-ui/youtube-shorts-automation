@@ -1,0 +1,31 @@
+{
+  "id": "008",
+  "slug": "tardigrados-espacio",
+  "series": "CIENCIA",
+  "mood": "asombro",
+  "hook_text": "SOBREVIVIÓ\nAL ESPACIO",
+  "hook_seconds": 2.2,
+  "segments": [
+    {"text": "Este animal de medio milímetro sobrevivió diez días expuesto al espacio exterior. Sin traje y sin protección.",
+     "visual": {"image": {"source": "commons", "file": "File:SEM image of Milnesium tardigradum in active state - journal.pone.0045682.g001-2.png"}, "motion": "zoom_in", "focus": [0.5, 0.5], "label": "Milnesium tardigradum al microscopio electrónico"}},
+    {"text": "Es un tardígrado, también llamado oso de agua. En septiembre de 2007, la misión FOTON-M3 los llevó a órbita.",
+     "visual": {"kind": "stat", "value": "10", "suffix": " DÍAS", "label": "expuestos al vacío del espacio", "bg": "prev"}},
+    {"text": "Viajaron deshidratados, convertidos en una especie de barrilito llamado tun, con su metabolismo casi detenido.",
+     "visual": {"image": {"source": "commons", "file": "File:Myoanatomical changes in Richtersius coronifer during tun formation.png"}, "motion": "fit", "label": "Un tardígrado formando el «tun»"}},
+    {"text": "Al volver, muchos se rehidrataron y siguieron con vida. Fueron los primeros animales en sobrevivir al vacío del espacio.",
+     "visual": {"image": {"source": "commons", "file": "File:SEM image of Milnesium tardigradum in active state - journal.pone.0045682.g001-2.png"}, "motion": "pan_rl", "evidence": "Jönsson et al., Current Biology (2008)"}},
+    {"text": "Unos pocos sobrevivieron incluso a la radiación ultravioleta directa del Sol. Y algunos, después, tuvieron crías normales.",
+     "visual": {"image": {"source": "nasa", "query": "SDO sun ultraviolet"}, "motion": "zoom_in", "label": "El Sol en ultravioleta (NASA/SDO)"}},
+    {"text": "Y lo más curioso: este animal de medio milímetro probablemente vive en el musgo de tu calle.",
+     "visual": {"image": {"source": "commons", "file": "File:SEM image of Milnesium tardigradum in active state - journal.pone.0045682.g001-2.png"}, "motion": "zoom_out", "focus": [0.5, 0.5]}}
+  ],
+  "title": "Tardígrados: los primeros animales que sobrevivieron al espacio #ciencia",
+  "description": "En 2007, la misión FOTON-M3 expuso tardígrados al vacío del espacio durante 10 días. Muchos sobrevivieron y algunos resistieron incluso la radiación ultravioleta del Sol.",
+  "tags": ["tardígrados", "oso de agua", "espacio", "biología", "animales extremos", "FOTON-M3", "ciencia", "astrobiología", "Ciencia con Pruebas"],
+  "hashtags": ["#ciencia", "#biologia", "#espacio", "#shorts"],
+  "sources": [
+    "Jönsson, K. I. et al. (2008). Tardigrades survive exposure to space in low Earth orbit. Current Biology 18(17):R729-R731. https://doi.org/10.1016/j.cub.2008.06.048",
+    "Imagen SEM: Schokraie et al. (2012), PLoS ONE 7(9):e45682, CC BY 2.5",
+    "https://www.nationalgeographic.com/science/article/tardigrades-become-first-animals-to-survive-vacuum-of-space"
+  ]
+}

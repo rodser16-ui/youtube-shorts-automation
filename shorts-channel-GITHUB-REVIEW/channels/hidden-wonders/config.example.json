@@ -1,0 +1,42 @@
+{
+  "channel": {
+    "name": "Second Example Channel",
+    "name_status": "Replace with your own public channel name.",
+    "handle": "@second-example",
+    "youtube_channel_id": "UC_REPLACE_ME",
+    "language": "en",
+    "categoryId": "27",
+    "disclosure": "Synthetic narration; sources are listed in the description."
+  },
+  "brand": {
+    "accent": "#E8B04B",
+    "accent2": "#2EC4B6",
+    "navy": "#0A0F14"
+  },
+  "strings": {
+    "stamp": "EVIDENCE",
+    "source": "SOURCE",
+    "number": "No.",
+    "sources_heading": "Sources:",
+    "images_heading": "Images (public domain / open license):",
+    "synthetic_marker": "synthetic"
+  },
+  "voice": {
+    "provider": "edge-tts",
+    "name": "en-US-AndrewMultilingualNeural",
+    "rate": "+6%",
+    "pitch": "-2Hz"
+  },
+  "remotion": {
+    "enabled": false,
+    "dir": ""
+  },
+  "playlists": {},
+  "publishing": {
+    "timezone": "UTC",
+    "slots": ["14:00", "23:00"],
+    "per_day": 1,
+    "require_approval": true,
+    "active": false
+  }
+}

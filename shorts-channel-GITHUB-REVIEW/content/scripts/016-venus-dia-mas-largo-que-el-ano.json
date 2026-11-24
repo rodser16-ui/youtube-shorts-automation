@@ -1,0 +1,35 @@
+{
+  "id": "016",
+  "slug": "venus-dia-mas-largo-que-el-ano",
+  "series": "ESPACIO",
+  "mood": "asombro",
+  "hook_text": "UN DÍA MÁS LARGO\nQUE SU AÑO",
+  "hook_seconds": 2.4,
+  "segments": [
+    {"text": "En Venus, un día dura más que un año entero.",
+     "visual": {"image": {"source": "nasa", "nasa_id": "PIA23791"}, "motion": "zoom_in", "zoom": [1.0, 1.3], "center": [0.75, 0.5], "label": "Venus, fotografiada por la Mariner 10 (NASA/JPL)"}},
+    {"text": "Su año, una vuelta completa al Sol, dura unos doscientos veinticinco días terrestres.",
+     "visual": {"kind": "stat", "value": "225", "label": "días terrestres dura un año en Venus", "bg": "prev"}},
+    {"text": "Pero gira tan despacio que una sola vuelta sobre sí mismo le lleva unos doscientos cuarenta y tres días.",
+     "visual": {"kind": "stat", "value": "243", "label": "días tarda en girar una vez sobre sí mismo", "bg": "prev", "evidence": "NASA Science, Venus Facts"}},
+    {"text": "Y además gira al revés que la Tierra: allí, el Sol sale por el oeste y se pone por el este.",
+     "visual": {"image": {"source": "nasa", "nasa_id": "PIA00257"}, "motion": "pan_rl", "label": "Venus bajo sus nubes, mapa de radar (NASA/Magellan)"}},
+    {"text": "Por eso, de un amanecer al siguiente pasan unos ciento diecisiete días.",
+     "visual": {"kind": "timeline", "points": [{"year": "117", "label": "días de un amanecer a otro"}, {"year": "225", "label": "días dura su año"}, {"year": "243", "label": "días dura un giro"}], "active": 0, "bg": "prev"}},
+    {"text": "Y otra rareza: Mercurio está mucho más cerca del Sol, pero Venus es más caliente.",
+     "visual": {"image": {"source": "nasa", "nasa_id": "GSFC_20171208_Archive_e001742"}, "motion": "zoom_in", "zoom": [1.0, 1.3], "center": [0.2, 0.18], "marker": [0.201, 0.177], "marker_label": "Venus", "label": "Venus pasa ante el Sol, 2012 (NASA/SDO)"}},
+    {"text": "Su espesa atmósfera de dióxido de carbono atrapa el calor en un efecto invernadero desbocado: en la superficie hay unos cuatrocientos sesenta y siete grados.",
+     "visual": {"kind": "stat", "value": "467", "suffix": " °C", "label": "en la superficie de Venus (Mercurio: máx. 430 °C)", "bg": "prev", "evidence": "NASA Science, Venus y Mercury Facts"}},
+    {"text": "Suficiente para fundir el plomo, en un mundo donde el Sol sale por el oeste y un día dura más que un año.",
+     "visual": {"image": {"source": "nasa", "nasa_id": "PIA00108"}, "motion": "pan_lr", "label": "Volcán Sif Mons: vista 3D simulada con radar (NASA/JPL)"}}
+  ],
+  "title": "Venus: el planeta donde un día dura más que un año #espacio",
+  "description": "En Venus, una vuelta sobre sí mismo tarda unos 243 días terrestres y una vuelta al Sol, unos 225. Además gira al revés y es más caliente que Mercurio. Datos de la NASA.",
+  "tags": ["Venus", "planeta Venus", "rotación retrógrada", "efecto invernadero", "sistema solar", "NASA", "espacio", "astronomía", "Ciencia con Pruebas"],
+  "hashtags": ["#espacio", "#Venus", "#astronomia", "#shorts"],
+  "sources": [
+    "NASA Science, Venus Facts: https://science.nasa.gov/venus/venus-facts/",
+    "NASA NSSDC, Venus Fact Sheet: https://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html",
+    "NASA Science, Mercury Facts: https://science.nasa.gov/mercury/facts/"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "002",
+  "slug": "krakatoa-sonido-mas-fuerte",
+  "series": "HISTORIA",
+  "mood": "epico",
+  "hook_text": "EL SONIDO\nMÁS FUERTE DE LA HISTORIA",
+  "hook_seconds": 2.6,
+  "segments": [
+    {"text": "El 27 de agosto de 1883, un volcán de Indonesia produjo el sonido más fuerte del que tenemos registro.",
+     "visual": {"image": {"source": "commons", "file": "File:Krakatoa eruption lithograph.jpg"}, "motion": "zoom_in", "focus": [0.5, 0.35], "label": "Litografía de la erupción del Krakatoa (1888)"}},
+    {"text": "Se oyó en la isla Rodrigues, en mitad del océano Índico. Allí pensaron que eran cañonazos de un barco lejano.",
+     "visual": {"image": {"source": "commons", "file": "File:Admiralty Chart No 715 Rodriguez Island, Published 1876.jpg"}, "motion": "pan_ud", "label": "Carta náutica de la isla Rodrigues (1876)"}},
+    {"text": "La isla Rodrigues está a casi cuatro mil ochocientos kilómetros del volcán.",
+     "visual": {"kind": "stat", "value": "4800", "thousands": true, "suffix": " KM", "label": "distancia a la que se oyó la explosión", "bg": "prev"}},
+    {"text": "La onda de presión dio la vuelta a la Tierra unas tres veces y media. Los barómetros de todo el mundo la registraron hasta siete veces.",
+     "visual": {"kind": "stat", "value": "7", "suffix": " VECES", "label": "registraron la onda los barómetros", "count": false}},
+    {"text": "Durante meses, los atardeceres se volvieron rojos en medio mundo. En Nueva York llegaron a llamar a los bomberos, porque creían que había un incendio.",
+     "visual": {"image": {"source": "commons", "file": "File:Houghton 71-1250 - Krakatoa, twilight and afterglow.jpg"}, "motion": "pan_du", "evidence": "Informe de la Royal Society, 1888"}},
+    {"text": "Pero el precio fue terrible: al menos 36.417 personas murieron, la mayoría por los tsunamis.",
+     "visual": {"kind": "title", "text": "AL MENOS\n36.417 VÍCTIMAS", "bg": "prev"}},
+    {"text": "Y todo empezó con una explosión, a las diez y dos minutos de la mañana del 27 de agosto de 1883.",
+     "visual": {"image": {"source": "commons", "file": "File:Krakatoa eruption lithograph.jpg"}, "motion": "zoom_out", "focus": [0.5, 0.35]}}
+  ],
+  "title": "Krakatoa 1883: el sonido más fuerte jamás registrado #historia #ciencia",
+  "description": "La explosión del Krakatoa en 1883 se oyó a casi 4.800 km y su onda de presión dio la vuelta al planeta unas 3,5 veces. Así lo documentó la Royal Society en su informe de 1888.",
+  "tags": ["Krakatoa", "Krakatoa 1883", "volcán", "sonido más fuerte", "historia", "ciencia", "erupción volcánica", "curiosidades", "Ciencia con Pruebas"],
+  "hashtags": ["#ciencia", "#historia", "#volcanes", "#shorts"],
+  "sources": [
+    "Symons, G. J. (ed.) (1888). The Eruption of Krakatoa and Subsequent Phenomena. Royal Society, Londres.",
+    "https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa",
+    "https://nautil.us/the-sound-so-loud-that-it-circled-the-earth-four-times-235101/"
+  ]
+}

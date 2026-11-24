@@ -1,0 +1,31 @@
+{
+  "id": "003",
+  "slug": "punto-azul-palido",
+  "series": "ESPACIO",
+  "mood": "cosmos",
+  "hook_text": "ESE PUNTO\nERES TÚ",
+  "hook_seconds": 2.2,
+  "segments": [
+    {"text": "Ese puntito azul, casi invisible, es la Tierra. Todas las personas que han existido están ahí.",
+     "visual": {"image": {"source": "nasa", "nasa_id": "PIA23645"}, "motion": "zoom_in", "zoom": [1.0, 1.7], "center": [0.595, 0.52], "marker": [0.595, 0.52], "marker_label": "La Tierra"}},
+    {"text": "La foto la tomó la sonda Voyager 1 el 14 de febrero de 1990, a unos seis mil millones de kilómetros de casa.",
+     "visual": {"image": {"source": "nasa", "nasa_id": "PIA04927"}, "motion": "pan_lr", "label": "Ilustración de la Voyager (NASA/JPL)"}},
+    {"text": "En la imagen original, la Tierra ocupa 0,12 píxeles. Ni siquiera un píxel entero.",
+     "visual": {"kind": "stat", "value": "0,12", "label": "píxeles ocupa la Tierra en la foto", "count": false}},
+    {"text": "La idea fue de Carl Sagan. Fue parte del último retrato de familia del sistema solar: sesenta fotos. Después, sus cámaras se apagaron para siempre.",
+     "visual": {"image": {"source": "nasa", "nasa_id": "PIA00452"}, "motion": "fit", "evidence": "NASA/JPL, imagen PIA00452"}},
+    {"text": "Y en noviembre de 2026, la Voyager 1 se ha convertido en el primer objeto humano a un día luz de la Tierra: su señal tarda veinticuatro horas en llegar.",
+     "visual": {"kind": "stat", "value": "24", "suffix": " H", "label": "tarda su señal en llegar a la Tierra"}},
+    {"text": "Y sigue alejándose, cada vez más lejos de ese puntito azul, donde está todo lo que conoces.",
+     "visual": {"image": {"source": "nasa", "nasa_id": "PIA23645"}, "motion": "zoom_out", "zoom": [1.7, 1.0], "center": [0.595, 0.52], "marker": [0.595, 0.52], "label": "Pale Blue Dot Revisited (NASA/JPL, 2020)"}}
+  ],
+  "title": "El Punto Azul Pálido: la Tierra vista a 6.000 millones de km #espacio",
+  "description": "El 14 de febrero de 1990, la Voyager 1 fotografió la Tierra desde unos 6.000 millones de kilómetros: ocupa 0,12 píxeles. En noviembre de 2026 la sonda alcanzó un día-luz de distancia.",
+  "tags": ["Voyager 1", "punto azul pálido", "pale blue dot", "Carl Sagan", "NASA", "espacio", "astronomía", "día luz", "Ciencia con Pruebas"],
+  "hashtags": ["#espacio", "#NASA", "#astronomia", "#shorts"],
+  "sources": [
+    "NASA/JPL, Solar System Portrait – Earth as 'Pale Blue Dot' (PIA00452): https://science.nasa.gov/photojournal/solar-system-portrait-earth-as-pale-blue-dot",
+    "NASA, Voyager 1: What is a light-day?: https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/",
+    "NASA/JPL, Pale Blue Dot Revisited (PIA23645), 2020"
+  ]
+}

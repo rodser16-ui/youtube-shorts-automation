@@ -1,0 +1,33 @@
+{
+  "id": "005",
+  "slug": "tunguska-explosion-siberia",
+  "series": "MISTERIO",
+  "mood": "misterio",
+  "hook_text": "ALGO EXPLOTÓ\nSOBRE SIBERIA",
+  "hook_seconds": 2.4,
+  "segments": [
+    {"text": "El 30 de junio de 1908, algo explotó en el cielo de Siberia con una fuerza brutal.",
+     "visual": {"image": {"source": "commons", "file": "File:Tunguska Ereignis-1.jpg", "query": "Tunguska 1929 Kulik photograph"}, "motion": "zoom_in", "focus": [0.5, 0.5], "label": "Bosque de Tunguska, expedición de Kulik"}},
+    {"text": "Arrasó unos dos mil ciento cincuenta kilómetros cuadrados de bosque. Millones de árboles cayeron hacia fuera, como un abanico gigante.",
+     "visual": {"kind": "stat", "value": "2150", "thousands": true, "label": "kilómetros cuadrados de bosque arrasado", "bg": "prev"}},
+    {"text": "Pero no había cráter. Ni ningún gran fragmento de roca.",
+     "visual": {"image": {"source": "commons", "file": "File:Tunguska explosion area map 4.png"}, "motion": "fit", "label": "Mapa de la zona afectada"}},
+    {"text": "La primera expedición científica no llegó hasta 1927. Leonid Kulik descubrió algo extraño: en el centro, los árboles seguían de pie… pero sin ramas.",
+     "visual": {"image": {"source": "commons", "file": "File:Тунгус метеорит Топи Тунгуски до14сент1930 ВС1931.JPG"}, "motion": "pan_lr", "evidence": "Fotografía de las expediciones de Kulik"}},
+    {"text": "La explicación más aceptada: un asteroide o un fragmento de cometa que estalló a varios kilómetros de altura, antes de tocar el suelo.",
+     "visual": {"kind": "title", "text": "EXPLOTÓ\nEN EL AIRE"}},
+    {"text": "Su energía se estima en unos diez a quince megatones. Cientos de veces la bomba de Hiroshima.",
+     "visual": {"kind": "stat", "value": "10-15", "label": "megatones, la estimación más citada", "count": false}},
+    {"text": "Más de un siglo después, aún no se ha encontrado ningún gran trozo de lo que explotó sobre Siberia el 30 de junio de 1908.",
+     "visual": {"image": {"source": "commons", "file": "File:Tunguska Ereignis-1.jpg", "query": "Tunguska 1929 Kulik photograph"}, "motion": "zoom_out", "focus": [0.5, 0.5]}}
+  ],
+  "title": "Tunguska 1908: la explosión que arrasó 2.150 km² sin dejar cráter #misterio",
+  "description": "El 30 de junio de 1908, una explosión en el aire derribó millones de árboles en Siberia. No dejó cráter. Esto es lo que encontró la expedición de Leonid Kulik y lo que piensa hoy la ciencia.",
+  "tags": ["Tunguska", "evento de Tunguska", "1908", "asteroide", "meteorito", "misterio", "ciencia", "espacio", "Ciencia con Pruebas"],
+  "hashtags": ["#misterio", "#ciencia", "#espacio", "#shorts"],
+  "sources": [
+    "NASA Science, «The Tunguska Impact – 100 Years Later» (30 de junio de 2008)",
+    "https://en.wikipedia.org/wiki/Tunguska_event",
+    "Informes de las expediciones de L. A. Kulik (1927-1930)"
+  ]
+}

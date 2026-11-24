@@ -1,0 +1,39 @@
+{
+  "id": "025",
+  "slug": "halley-predijo-su-cometa",
+  "series": "ESPACIO",
+  "mood": "cosmos",
+  "experiment": "EXP01",
+  "variant": "A",
+  "target_seconds": [40, 45],
+  "remotion": false,
+  "hook_text": "LO PREDIJO\nY NO LO VIO",
+  "hook_seconds": 2.4,
+  "segments": [
+    {"text": "Edmond Halley anunció que un cometa volvería en 1758. Y murió sin saber si acertaba.",
+     "visual": {"image": {"source": "commons", "file": "File:Edmond Halley, 1656-1742, Astronomer Royal RMG BHC2734 (cropped).tiff"}, "motion": "zoom_in", "zoom": [1.0, 1.25], "center": [0.45, 0.45], "label": "Edmond Halley, retrato de Godfrey Kneller (Royal Museums Greenwich)"}},
+    {"text": "En 1705 calculó las órbitas de veinticuatro cometas con la gravedad de Newton.",
+     "visual": {"image": {"source": "commons", "file": "File:PSM V76 D021 Orbit of the planets and halley comet.png"}, "motion": "fit", "label": "Órbita del cometa Halley entre las de los planetas (diagrama de 1910)"}},
+    {"text": "Y vio que los cometas de 1531, 1607 y 1682 seguían casi el mismo camino.",
+     "visual": {"kind": "timeline", "points": [{"year": "1531", "label": "Cometa"}, {"year": "1607", "label": "Cometa"}, {"year": "1682", "label": "Cometa"}, {"year": "1758", "label": "¿Volverá?"}], "active": 3, "bg": "prev"}},
+    {"text": "No eran tres cometas, sino uno solo, que vuelve cada setenta y seis años de media.",
+     "visual": {"kind": "stat", "value": "76", "label": "años tarda en volver, de media", "bg": "prev", "evidence": "NASA Science, Comet 1P/Halley"}},
+    {"text": "Halley murió en 1742. En la Navidad de 1758, un granjero alemán vio una mancha difusa en el cielo.",
+     "visual": {"image": {"source": "commons", "file": "File:Portret van Johann Georg Palitzsch, RP-P-1914-4026.jpg"}, "motion": "zoom_in", "zoom": [1.0, 1.35], "center": [0.5, 0.36], "label": "Johann Georg Palitzsch (grabado de 1782, Rijksmuseum)"}},
+    {"text": "Era Johann Georg Palitzsch, astrónomo aficionado. El cometa había vuelto.",
+     "visual": {"image": {"source": "commons", "file": "File:PSM V76 D017 Halley comet in 1759 (horizontal).png"}, "motion": "zoom_in", "zoom": [1.0, 1.4], "center": [0.7, 0.5], "label": "El cometa en 1759 (ilustración publicada en 1910)"}},
+    {"text": "Desde entonces lleva el nombre de Halley. Su última visita fue en 1986.",
+     "visual": {"image": {"source": "commons", "file": "File:Lspn comet halley.jpg"}, "motion": "pan_lr", "label": "El cometa Halley el 8 de marzo de 1986 (NASA/W. Liller)"}},
+    {"text": "Volverá en 2061. Quizá tú sí llegues a verlo.",
+     "visual": {"image": {"source": "commons", "file": "File:Edmond Halley, 1656-1742, Astronomer Royal RMG BHC2734 (cropped).tiff"}, "motion": "zoom_out", "zoom": [1.25, 1.0], "center": [0.45, 0.45]}}
+  ],
+  "title": "Halley predijo la vuelta de su cometa para 1758 y murió sin verla #espacio",
+  "description": "En 1705, Edmond Halley concluyó que los cometas de 1531, 1607 y 1682 eran el mismo y anunció su regreso para 1758. Murió en 1742; la Navidad de 1758, un astrónomo aficionado lo vio volver.",
+  "tags": ["cometa Halley", "Edmond Halley", "Halley's Comet", "Palitzsch", "cometas", "historia de la astronomía", "espacio", "astronomía", "Ciencia con Pruebas"],
+  "hashtags": ["#espacio", "#astronomia", "#cometa", "#shorts"],
+  "sources": [
+    "NASA Science, Comet 1P/Halley: https://science.nasa.gov/solar-system/comets/1p-halley/",
+    "MacTutor History of Mathematics (Univ. de St Andrews), Edmond Halley: https://mathshistory.st-andrews.ac.uk/Biographies/Halley/",
+    "Linda Hall Library, Scientist of the Day: Georg Palitzsch: https://www.lindahall.org/about/news/scientist-of-the-day/georg-palitzsch/"
+  ]
+}

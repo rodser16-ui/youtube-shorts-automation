@@ -1,0 +1,33 @@
+{
+  "id": "007",
+  "slug": "ano-sin-verano-frankenstein",
+  "series": "HISTORIA",
+  "mood": "misterio",
+  "hook_text": "UN VOLCÁN\nCREÓ A FRANKENSTEIN",
+  "hook_seconds": 2.4,
+  "segments": [
+    {"text": "Un volcán al otro lado del mundo ayudó a que naciera Frankenstein. Te lo explico.",
+     "visual": {"image": {"source": "commons", "file": "File:Frontispiece to Frankenstein 1831.jpg"}, "motion": "zoom_in", "focus": [0.5, 0.35]}},
+    {"text": "En abril de 1815 entró en erupción el monte Tambora, en Indonesia. Es la mayor erupción observada directamente por el ser humano.",
+     "visual": {"image": {"source": "commons", "file": "File:Mount Tambora Volcano, Sumbawa Island, Indonesia.jpg"}, "motion": "pan_lr", "label": "Caldera del Tambora, vista desde el espacio"}},
+    {"text": "Sus cenizas y gases enfriaron el planeta. Al año siguiente, 1816, nevó en junio en Nueva Inglaterra. Lo llamaron el año sin verano.",
+     "visual": {"kind": "timeline", "points": [{"year": "1815", "label": "Erupción del Tambora"}, {"year": "1816", "label": "Año sin verano"}, {"year": "1818", "label": "Se publica Frankenstein"}], "active": 1, "bg": "prev"}},
+    {"text": "En Europa fracasaron las cosechas y llegó la peor hambruna del siglo.",
+     "visual": {"image": {"source": "commons", "file": "File:Mount Tambora Relief Map, SRTM-1.jpg"}, "motion": "zoom_in", "label": "Relieve del Tambora (datos SRTM)"}},
+    {"text": "Ese verano frío y lluvioso, un grupo de escritores quedó encerrado en una villa junto al lago de Ginebra.",
+     "visual": {"image": {"source": "commons", "file": "File:Villa diodati 2008.07.27 rg 1.JPG"}, "motion": "pan_rl", "label": "Villa Diodati, Ginebra"}},
+    {"text": "Lord Byron les propuso un reto: escribir cada uno una historia de terror. Allí, Mary Shelley, con dieciocho años, empezó Frankenstein.",
+     "visual": {"image": {"source": "commons", "file": "File:RothwellMaryShelley.jpg"}, "motion": "zoom_in", "focus": [0.5, 0.3], "evidence": "Introducción de Mary Shelley a Frankenstein (1831)"}},
+    {"text": "Del mismo reto salió también El vampiro, de John Polidori. Dos clásicos del terror, nacidos de un volcán.",
+     "visual": {"image": {"source": "commons", "file": "File:Frontispiece to Frankenstein 1831.jpg"}, "motion": "zoom_out", "focus": [0.5, 0.35]}}
+  ],
+  "title": "El volcán que ayudó a crear Frankenstein: 1816, el año sin verano #historia",
+  "description": "La erupción del Tambora en 1815 enfrió el planeta y trajo «el año sin verano». Ese verano lluvioso, en Villa Diodati, Mary Shelley empezó a escribir Frankenstein.",
+  "tags": ["año sin verano", "1816", "Tambora", "Frankenstein", "Mary Shelley", "volcán", "historia", "literatura", "Ciencia con Pruebas"],
+  "hashtags": ["#historia", "#ciencia", "#literatura", "#shorts"],
+  "sources": [
+    "Oppenheimer, C. (2003). Climatic, environmental and human consequences of the largest known historic eruption: Tambora volcano (Indonesia) 1815. Progress in Physical Geography 27(2).",
+    "Shelley, M. (1831). Introducción a Frankenstein (edición revisada).",
+    "https://en.wikipedia.org/wiki/Year_Without_a_Summer"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "018",
+  "slug": "el-bloop-sonido-submarino",
+  "experiment": "EXP01",
+  "variant": "B",
+  "style": "cinematic",
+  "gap": 0.12,
+  "music_level": 0.11,
+  "target_seconds": [30, 35],
+  "series": "MISTERIO",
+  "mood": "misterio",
+  "hook_text": "¿QUIÉN HIZO\nESTE SONIDO?",
+  "hook_seconds": 2.4,
+  "segments": [
+    {"text": "En 1997, el mar emitió un sonido sin explicación.",
+     "visual": {"image": {"source": "nasa", "nasa_id": "iss071e456772"}, "motion": "zoom_in", "zoom": [1.0, 1.35], "center": [0.6, 0.62], "label": "El océano Pacífico de noche, desde la Estación Espacial (NASA)"}},
+    {"text": "Lo captaron hidrófonos de la NOAA, micrófonos que escuchan bajo el mar.",
+     "visual": {"image": {"source": "commons", "file": "File:GRNMS - Hydrophone Deployment (31139448880).jpg"}, "motion": "zoom_in", "zoom": [1.15, 1.4], "center": [0.7, 0.5], "label": "Un hidrófono de la NOAA en el fondo marino (imagen ilustrativa)"}},
+    {"text": "Sensores separados más de tres mil kilómetros oyeron lo mismo.",
+     "visual": {"kind": "stat", "value": "3000", "thousands": true, "prefix": "+", "suffix": " km", "label": "entre los sensores que lo captaron", "bg": "prev", "evidence": "NOAA Ocean Service, «What is the Bloop?»"}},
+    {"text": "Lo llamaron el Bloop.",
+     "visual": {"kind": "title", "text": "EL\nBLOOP", "bg": "prev"}},
+    {"text": "Parecía la llamada de un animal, pero mucho más fuerte que una ballena azul.",
+     "visual": {"image": {"source": "commons", "file": "File:Anim1754 - Flickr - NOAA Photo Library.jpg"}, "motion": "pan_rl", "zoom": [1.15, 1.15], "center": [0.5, 0.5], "label": "Ballena azul vista desde el aire (NOAA)"}},
+    {"text": "¿Un monstruo marino? La NOAA acercó sus hidrófonos a la Antártida.",
+     "visual": {"kind": "steps", "title": "LA INVESTIGACIÓN", "items": ["1997: un sonido enorme", "¿Un animal gigante?", "Hidrófonos hacia la Antártida", "Respuesta: hielo"], "bg": "prev"}},
+    {"text": "Y llegó la respuesta: era un terremoto de hielo.",
+     "visual": {"image": {"source": "commons", "file": "File:Anta0031 - Flickr - NOAA Photo Library.jpg"}, "motion": "zoom_in", "zoom": [1.0, 1.4], "center": [0.75, 0.45], "label": "Iceberg tabular en el océano Austral (NOAA)"}},
+    {"text": "Un iceberg agrietándose y desprendiéndose de un glaciar antártico.",
+     "visual": {"image": {"source": "nasa", "nasa_id": "GSFC_20171208_Archive_e000909"}, "motion": "pan_lr", "zoom": [1.2, 1.2], "center": [0.5, 0.4], "label": "Icebergs recién desprendidos, Antártida occidental (NASA, 2014)", "evidence": "NOAA: el Bloop era un terremoto de hielo"}},
+    {"text": "El monstruo del océano era hielo antártico.",
+     "visual": {"image": {"source": "commons", "file": "File:Iceberg. Southern Ocean - Flickr - NOAA Photo Library.jpg"}, "motion": "zoom_out", "zoom": [1.35, 1.0], "center": [0.55, 0.5], "label": "Iceberg en el océano Austral (NOAA)"}}
+  ],
+  "title": "El Bloop: el sonido submarino de 1997 que parecía un monstruo #misterio",
+  "description": "En 1997, los hidrófonos de la NOAA registraron un sonido enorme que se oyó a miles de kilómetros. Parecía un animal gigante. Era hielo antártico rompiéndose.",
+  "tags": ["Bloop", "sonido Bloop", "NOAA", "hidrófono", "terremoto de hielo", "iceberg", "Antártida", "misterio", "Ciencia con Pruebas"],
+  "hashtags": ["#misterio", "#oceano", "#ciencia", "#shorts"],
+  "sources": [
+    "NOAA Ocean Service, «What is the Bloop?»: https://oceanservice.noaa.gov/facts/bloop.html",
+    "NOAA PMEL Acoustics Program, «Icequakes (Bloop)»: https://www.pmel.noaa.gov/acoustics/sounds/bloop.html",
+    "Popular Science, «The sea monster goes ‘bloop’—or does it?»: https://www.popsci.com/environment/sea-monster-bloop-sound/"
+  ]
+}

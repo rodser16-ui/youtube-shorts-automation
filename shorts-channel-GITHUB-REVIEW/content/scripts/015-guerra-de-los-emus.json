@@ -1,0 +1,35 @@
+{
+  "id": "015",
+  "slug": "guerra-de-los-emus",
+  "series": "HISTORIA",
+  "mood": "epico",
+  "hook_text": "EL EJÉRCITO\nCONTRA LOS EMÚS",
+  "hook_seconds": 2.4,
+  "segments": [
+    {"text": "En 1932, el ejército australiano salió con ametralladoras contra un enemigo inesperado: los emús. Y perdió.",
+     "visual": {"image": {"source": "commons", "file": "File:Emu walking.JPG"}, "motion": "zoom_in", "focus": [0.75, 0.2], "label": "Un emú (foto actual)"}},
+    {"text": "Unos veinte mil emús arrasaban los campos de trigo de Australia Occidental, y los granjeros pidieron ayuda.",
+     "visual": {"image": {"source": "commons", "file": "File:Emus, Wilsons Promontory National Park.jpg"}, "motion": "pan_lr", "label": "Emús en Australia (foto actual)"}},
+    {"text": "Llegó el comandante Meredith con dos soldados, dos ametralladoras Lewis y diez mil balas.",
+     "visual": {"image": {"source": "commons", "file": "File:TheGreatEmuWarcolage.png"}, "motion": "zoom_in", "zoom": [3.0, 3.2], "center": [0.76, 0.14], "evidence": "Ametralladora Lewis en la operación de 1932"}},
+    {"text": "Pero los emús se dispersaban en grupos pequeños y corrían muchísimo. En una emboscada, una ametralladora se encasquilló.",
+     "visual": {"image": {"source": "commons", "file": "File:Emus in field.JPG"}, "motion": "pan_rl", "label": "Emús en un campo de cultivo (foto actual)"}},
+    {"text": "A la semana, el gobierno retiró a los soldados. Volvieron días después y siguieron hasta diciembre.",
+     "visual": {"kind": "timeline", "points": [{"year": "2 NOV", "label": "Llegan"}, {"year": "8 NOV", "label": "Retirada"}, {"year": "13 NOV", "label": "Vuelven"}, {"year": "10 DIC", "label": "Fin"}], "active": 3, "bg": "prev"}},
+    {"text": "Según el informe de Meredith, se dispararon casi diez mil balas y cayeron menos de mil emús: unas diez balas por ave.",
+     "visual": {"kind": "stat", "value": "10", "label": "balas por emú abatido, según el informe de Meredith", "bg": "prev"}},
+    {"text": "Meredith llegó a decir que los emús podían enfrentarse a las ametralladoras con la invulnerabilidad de los tanques.",
+     "visual": {"image": {"source": "commons", "file": "File:Australian soldiers resting during Emu War.jpg"}, "motion": "pan_lr", "label": "Soldados de la operación junto a una charca, 1932"}},
+    {"text": "En el Parlamento bromearon con que las medallas debían ser para los emús: habían ganado todos los asaltos.",
+     "visual": {"image": {"source": "commons", "file": "File:Emu walking.JPG"}, "motion": "zoom_out", "focus": [0.7, 0.3]}}
+  ],
+  "title": "1932: el ejército australiano contra los emús… y ganaron los emús #historia",
+  "description": "En 1932, Australia envió soldados con ametralladoras Lewis contra unos 20.000 emús que destrozaban el trigo de Australia Occidental. Según el informe del comandante Meredith, hicieron falta unas diez balas por cada ave abatida, y el problema siguió.",
+  "tags": ["Guerra de los Emús", "Emu War", "emús", "Australia", "1932", "historia de Australia", "historia curiosa", "historia", "Ciencia con Pruebas"],
+  "hashtags": ["#historia", "#australia", "#curiosidades", "#shorts"],
+  "sources": [
+    "Australian Geographic, «Looking back: Australia's Emu Wars» https://www.australiangeographic.com.au/?p=23036",
+    "Scientific American (blog), «The Great Emu War: In which some large, flightless birds unwittingly foiled the Australian Army» (cita a M. Johnson, 2006) https://www.scientificamerican.com/blog/running-ponies/the-great-emu-war-in-which-some-large-flightless-birds-unwittingly-foiled-the-australian-army/",
+    "National Geographic, «The bizarre story of when Australia went to war with emus—and lost» https://www.nationalgeographic.com/history/article/australian-emu-war-history"
+  ]
+}

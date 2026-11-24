@@ -1,0 +1,35 @@
+{
+  "id": "011",
+  "slug": "robo-mona-lisa",
+  "series": "HISTORIA",
+  "mood": "epico",
+  "hook_text": "ROBARON LA\nMONA LISA",
+  "hook_seconds": 2.4,
+  "segments": [
+    {"text": "El 21 de agosto de 1911, alguien robó la Mona Lisa del Louvre. Y nadie dio la alarma hasta el día siguiente.",
+     "visual": {"image": {"source": "commons", "file": "File:Mona Lisa.jpg"}, "motion": "zoom_in", "focus": [0.45, 0.27]}},
+    {"text": "El ladrón era Vincenzo Peruggia, un vidriero italiano que había ayudado a fabricar la vitrina del cuadro.",
+     "visual": {"image": {"source": "commons", "file": "File:Excelsior - Vincenzo Peruggia - Vol de La Joconde - Mona Lisa.jpg"}, "motion": "zoom_in", "zoom": [1.25, 1.8], "center": [0.5, 0.52], "evidence": "Excelsior, 14 de diciembre de 1913"}},
+    {"text": "Al reabrir el museo, una multitud acudió a ver… un hueco en la pared. Entre ellos, Franz Kafka.",
+     "visual": {"image": {"source": "commons", "file": "File:Mona Lisa stolen-1911.jpg"}, "motion": "zoom_in", "zoom": [1.0, 1.12], "focus": [0.47, 0.42], "marker": [0.47, 0.42], "marker_label": "Aquí estaba", "label": "El hueco de la Mona Lisa en el Louvre, 1911"}},
+    {"text": "La policía llegó a interrogar a Picasso. Pero el cuadro seguía escondido en un baúl de Peruggia.",
+     "visual": {"image": {"source": "commons", "file": "File:Vincenzo Perugia.jpg"}, "motion": "zoom_in", "zoom": [1.25, 1.5], "center": [0.68, 0.45], "evidence": "Ficha policial de Peruggia, París, 1909"}},
+    {"text": "Pasaron más de dos años. En diciembre de 1913, se lo ofreció a un anticuario de Florencia.",
+     "visual": {"kind": "title", "text": "MÁS DE\nDOS AÑOS", "bg": "prev"}},
+    {"text": "El director de la Galería Uffizi comprobó que era auténtico, y el ladrón fue detenido.",
+     "visual": {"image": {"source": "commons", "file": "File:Monalisa uffizi 1913.jpg"}, "motion": "pan_rl", "evidence": "Galería Uffizi, Florencia, diciembre de 1913"}},
+    {"text": "En enero de 1914 volvió al Louvre. Según el propio museo, el robo le dio fama mundial.",
+     "visual": {"kind": "timeline", "points": [{"year": "1911", "label": "Robo en París"}, {"year": "1913", "label": "Aparece en Florencia"}, {"year": "1914", "label": "Vuelve al Louvre"}], "active": 2, "bg": "prev"}},
+    {"text": "El cuadro que tardaron un día en echar de menos es hoy el más famoso del mundo.",
+     "visual": {"image": {"source": "commons", "file": "File:Mona Lisa in the Louvre.jpg"}, "motion": "zoom_out", "focus": [0.45, 0.3], "evidence": "Museo del Louvre, ficha INV 779"}}
+  ],
+  "title": "El robo que convirtió a la Mona Lisa en el cuadro más famoso del mundo #historia",
+  "description": "El 21 de agosto de 1911, un vidriero italiano se llevó la Mona Lisa del Louvre. Pasó más de dos años escondida hasta que reapareció en Florencia, y el robo la hizo mundialmente famosa.",
+  "tags": ["Mona Lisa", "La Gioconda", "robo de la Mona Lisa", "Vincenzo Peruggia", "Louvre", "Leonardo da Vinci", "historia del arte", "historia", "Ciencia con Pruebas"],
+  "hashtags": ["#historia", "#arte", "#monalisa", "#shorts"],
+  "sources": [
+    "Musée du Louvre, ficha de la obra INV 779 (el robo de 1911 «lui a donné une célébrité mondiale») y material didáctico «Le vol de la Joconde»: https://collections.louvre.fr/en/ark:/53355/cl010062370",
+    "T. McArdle, «How the 1911 theft of the Mona Lisa made it the world's most famous painting», The Washington Post (2019), reproducido en: https://www.spokesman.com/stories/2019/oct/20/how-the-1911-theft-of-the-mona-lisa-made-it-the-wo",
+    "I. Telesca, «The theft of the Mona Lisa: when Vincenzo Peruggia stole Leonardo's famous painting», Finestre sull'Arte (2017): https://www.finestresullarte.info/en/works-and-artists/the-theft-of-the-mona-lisa-when-vincenzo-peruggia-stole-leonardo-s-famous-painting"
+  ]
+}

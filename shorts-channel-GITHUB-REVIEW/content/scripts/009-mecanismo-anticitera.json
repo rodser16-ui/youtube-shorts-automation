@@ -1,0 +1,33 @@
+{
+  "id": "009",
+  "slug": "mecanismo-de-anticitera",
+  "series": "MISTERIO",
+  "mood": "misterio",
+  "hook_text": "UN ORDENADOR\nDE HACE 2.000 AÑOS",
+  "hook_seconds": 2.4,
+  "segments": [
+    {"text": "Este trozo de bronce corroído tiene más de dos mil años. Y es una calculadora astronómica.",
+     "visual": {"image": {"source": "commons", "file": "File:Antikythera Fragment A (Front).webp"}, "motion": "zoom_in", "focus": [0.5, 0.5], "label": "Fragmento A del mecanismo"}},
+    {"text": "En 1900, unos buceadores que buscaban esponjas encontraron un naufragio griego junto a la isla de Anticitera.",
+     "visual": {"image": {"source": "commons", "file": "File:Ancient Greece Bronze Statue Head of Antikythera Philosopher, c. 230 BC (27884130133).jpg"}, "motion": "zoom_in", "focus": [0.5, 0.35], "label": "«Filósofo de Anticitera», hallado en el naufragio"}},
+    {"text": "Entre estatuas y ánforas sacaron un bloque de bronce que nadie entendió. Hasta que, en 1902, alguien vio en él una rueda dentada.",
+     "visual": {"image": {"source": "commons", "file": "File:Ancient Greece Bronze Statue of a Youth, from Antikythera Shipwreck, c. 340-330 BC.jpg"}, "motion": "zoom_in", "focus": [0.5, 0.3], "label": "Estatua del naufragio, Museo de Atenas"}},
+    {"text": "Hoy conocemos ochenta y dos fragmentos, con unos treinta engranajes de bronce.",
+     "visual": {"kind": "stat", "value": "82", "label": "fragmentos conservados", "bg": "prev"}},
+    {"text": "Servía para predecir eclipses, las fases de la Luna y, probablemente, la posición de los planetas. Incluso marcaba el ciclo de los Juegos Olímpicos.",
+     "visual": {"image": {"source": "commons", "file": "File:NAMA Machine d'Anticythère 5.jpg"}, "motion": "pan_ud", "evidence": "Freeth et al., Nature (2006)"}},
+    {"text": "Uno de sus engranajes tiene 223 dientes: exactamente los meses del ciclo de eclipses llamado Saros.",
+     "visual": {"kind": "stat", "value": "223", "label": "dientes: los meses del ciclo de eclipses", "bg": "prev"}},
+    {"text": "No se conoce nada comparable hasta los relojes astronómicos medievales, más de mil años después. Y todo cabía en este trozo de bronce.",
+     "visual": {"image": {"source": "commons", "file": "File:Antikythera Fragment A (Front).webp"}, "motion": "zoom_out", "focus": [0.5, 0.5]}}
+  ],
+  "title": "El mecanismo de Anticitera: un «ordenador» de hace 2.000 años #misterio",
+  "description": "Recuperado de un naufragio griego en 1901, el mecanismo de Anticitera predecía eclipses con engranajes de bronce. Es considerado el ordenador analógico más antiguo conocido.",
+  "tags": ["mecanismo de Anticitera", "Anticitera", "antigua Grecia", "arqueología", "astronomía", "misterio", "historia", "tecnología antigua", "Ciencia con Pruebas"],
+  "hashtags": ["#historia", "#misterio", "#arqueologia", "#shorts"],
+  "sources": [
+    "Freeth, T. et al. (2006). Decoding the ancient Greek astronomical calculator known as the Antikythera Mechanism. Nature 444:587-591.",
+    "Freeth, T. et al. (2021). A Model of the Cosmos in the ancient Greek Antikythera Mechanism. Scientific Reports 11:5821.",
+    "Museo Arqueológico Nacional de Atenas"
+  ]
+}
