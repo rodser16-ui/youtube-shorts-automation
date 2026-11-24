@@ -1,0 +1,186 @@
+{
+  "id": "017",
+  "slug": "piedras-que-se-mueven-solas",
+  "experiment": "EXP01",
+  "variant": "A",
+  "target_seconds": [
+    40,
+    45
+  ],
+  "series": "MISTERIO",
+  "mood": "misterio",
+  "hook_text": "PIEDRAS QUE SE\nMUEVEN SOLAS",
+  "hook_seconds": 2.4,
+  "segments": [
+    {
+      "text": "En un lago seco del Valle de la Muerte, hay piedras que se mueven solas.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Sailing Stones (3992378748).jpg"
+        },
+        "motion": "zoom_in",
+        "zoom": [
+          1.0,
+          1.25
+        ],
+        "center": [
+          0.35,
+          0.75
+        ],
+        "label": "Racetrack Playa, Valle de la Muerte (California)"
+      }
+    },
+    {
+      "text": "Algunas pesan hasta trescientos veinte kilos, y dejan largos surcos en el barro.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Racetrack, Death Valley National Park.jpg"
+        },
+        "motion": "pan_lr",
+        "label": "Una piedra y su surco (foto: NPS)"
+      }
+    },
+    {
+      "text": "Se estudiaban desde los años cuarenta, pero nadie había visto moverse ninguna.",
+      "visual": {
+        "kind": "timeline",
+        "points": [
+          {
+            "year": "1940s",
+            "label": "primeros estudios"
+          },
+          {
+            "year": "2013",
+            "label": "GPS en las piedras"
+          },
+          {
+            "year": "2014",
+            "label": "explicación publicada"
+          }
+        ],
+        "active": 0,
+        "bg": "prev"
+      }
+    },
+    {
+      "text": "Se llegó a pensar en vientos huracanados.",
+      "visual": {
+        "kind": "title",
+        "text": "¿VIENTOS\nHURACANADOS?",
+        "bg": "prev"
+      }
+    },
+    {
+      "text": "En 2013, unos científicos escondieron receptores GPS dentro de varias piedras.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Sliding-Rocks-on-Racetrack-Playa-Death-Valley-National-Park-First-Observation-of-Rocks-in-Motion-pone.0105948.g004.jpg"
+        },
+        "motion": "zoom_in",
+        "zoom": [
+          1.0,
+          1.3
+        ],
+        "center": [
+          0.5,
+          0.8
+        ],
+        "label": "Piedra con GPS sobre la playa helada",
+        "evidence": "Norris et al., PLOS ONE (2014)"
+      }
+    },
+    {
+      "text": "Ese diciembre lo vieron por fin: decenas de piedras deslizándose a la vez.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Sliding-Rocks-on-Racetrack-Playa-Death-Valley-National-Park-First-Observation-of-Rocks-in-Motion-pone.0105948.g002.jpg"
+        },
+        "motion": "zoom_in",
+        "zoom": [
+          1.3,
+          1.5
+        ],
+        "center": [
+          0.5,
+          0.25
+        ],
+        "label": "Surcos recién formados, 20 de diciembre de 2013"
+      }
+    },
+    {
+      "text": "La clave era el hielo: el agua que inundaba el lago se helaba en láminas de apenas unos milímetros.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Sliding-Rocks-on-Racetrack-Playa-Death-Valley-National-Park-First-Observation-of-Rocks-in-Motion-pone.0105948.g008.jpg"
+        },
+        "motion": "zoom_in",
+        "zoom": [
+          1.6,
+          1.9
+        ],
+        "center": [
+          0.25,
+          0.25
+        ],
+        "label": "Hielo fino sobre una piedra recién movida (enero de 2014)"
+      }
+    },
+    {
+      "text": "Al romperse, la brisa empujaba esas placas contra las piedras. Alguna recorrió doscientos veinticuatro metros.",
+      "visual": {
+        "kind": "stat",
+        "value": "224",
+        "suffix": " m",
+        "label": "recorrió una piedra con GPS (dic. 2013 - ene. 2014)",
+        "bg": "prev"
+      }
+    },
+    {
+      "text": "Ocurre tan pocas veces que, sin nadie mirando, parecían moverse solas.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Sailing Stones (3992378748).jpg"
+        },
+        "motion": "zoom_out",
+        "zoom": [
+          1.25,
+          1.0
+        ],
+        "center": [
+          0.35,
+          0.75
+        ]
+      }
+    }
+  ],
+  "title": "Las piedras que se mueven solas en el Valle de la Muerte: así se resolvió #misterio",
+  "description": "En la Racetrack Playa, rocas de hasta 320 kg dejan surcos en el barro. En 2013, piedras con GPS revelaron el motivo: placas de hielo de pocos milímetros empujadas por brisas suaves.",
+  "tags": [
+    "piedras que se mueven",
+    "Racetrack Playa",
+    "Valle de la Muerte",
+    "Death Valley",
+    "sailing stones",
+    "misterio resuelto",
+    "geología",
+    "ciencia",
+    "Ciencia con Pruebas"
+  ],
+  "hashtags": [
+    "#misterio",
+    "#ciencia",
+    "#geologia",
+    "#shorts"
+  ],
+  "sources": [
+    "Norris, R. D. et al., «Sliding Rocks on Racetrack Playa, Death Valley National Park: First Observation of Rocks in Motion», PLOS ONE 9(8): e105948 (27 de agosto de 2014): https://doi.org/10.1371/journal.pone.0105948",
+    "National Park Service, «Mystery Solved: Mysterious ‘sailing stones’ of Death Valley seen in action for the first time» (2014): https://www.nps.gov/deva/learn/news/racetrack.htm"
+  ],
+  "remotion": false
+}

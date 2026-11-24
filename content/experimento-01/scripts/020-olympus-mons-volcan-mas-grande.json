@@ -1,0 +1,159 @@
+{
+  "id": "020",
+  "slug": "olympus-mons-volcan-mas-grande",
+  "experiment": "EXP01",
+  "variant": "A",
+  "target_seconds": [
+    40,
+    45
+  ],
+  "series": "ESPACIO",
+  "mood": "epico",
+  "hook_text": "UN VOLCÁN DE\n26 KILÓMETROS",
+  "hook_seconds": 2.4,
+  "segments": [
+    {
+      "text": "En Marte hay un volcán casi tres veces más alto que el Everest.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Olympus Mons alt.jpg"
+        },
+        "motion": "zoom_in",
+        "zoom": [
+          1.0,
+          1.4
+        ],
+        "center": [
+          0.54,
+          0.51
+        ],
+        "label": "Monte Olimpo, mosaico de las sondas Viking (NASA)"
+      }
+    },
+    {
+      "text": "Es el monte Olimpo: se alza unos veintiséis kilómetros sobre las llanuras que lo rodean.",
+      "visual": {
+        "kind": "stat",
+        "value": "26",
+        "suffix": " km",
+        "label": "de altura sobre las llanuras que lo rodean",
+        "bg": "prev",
+        "evidence": "NASA/JPL, misión Mars Odyssey"
+      }
+    },
+    {
+      "text": "Su base mide unos seiscientos kilómetros, más que Arizona.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Olympus Mons and Arizona (4090837190).jpg"
+        },
+        "motion": "fit",
+        "label": "El monte Olimpo comparado con Arizona (LPI para la NASA)"
+      }
+    },
+    {
+      "text": "En noviembre de 1971, la sonda Mariner 9 llegó a Marte en plena tormenta global de polvo.",
+      "visual": {
+        "image": {
+          "source": "nasa",
+          "nasa_id": "PIA02995"
+        },
+        "motion": "fit",
+        "label": "Marte cubierto de polvo, visto por la Mariner 9 al acercarse (11 nov. 1971)"
+      }
+    },
+    {
+      "text": "Sobre el polvo asomaba una mancha oscura: la cima de este gigante, a la que llamaron Nix Olympica.",
+      "visual": {
+        "image": {
+          "source": "nasa",
+          "nasa_id": "PIA02995"
+        },
+        "motion": "zoom_in",
+        "zoom": [
+          1.0,
+          1.8
+        ],
+        "center": [
+          0.555,
+          0.265
+        ],
+        "marker": [
+          0.555,
+          0.265
+        ],
+        "marker_label": "Nix Olympica"
+      }
+    },
+    {
+      "text": "¿Por qué tanto? En la Tierra, las placas se desplazan, como en Hawái. En Marte, no.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Hawaii hotspot.jpg"
+        },
+        "motion": "pan_rl",
+        "marker": [
+          0.54,
+          0.82
+        ],
+        "marker_label": "Hawái",
+        "label": "Cadena de montes de Hawái: la placa se movió sobre el punto caliente (NOAA/USGS)"
+      }
+    },
+    {
+      "text": "Allí, la lava brotó una y otra vez en el mismo punto, y se fue apilando.",
+      "visual": {
+        "kind": "title",
+        "text": "LA LAVA\nSE APILÓ",
+        "bg": "prev"
+      }
+    },
+    {
+      "text": "Y con menos gravedad, creció aún más: el volcán más grande conocido del sistema solar.",
+      "visual": {
+        "image": {
+          "source": "nasa",
+          "nasa_id": "PIA00300"
+        },
+        "motion": "zoom_out",
+        "zoom": [
+          1.4,
+          1.0
+        ],
+        "center": [
+          0.52,
+          0.52
+        ],
+        "label": "Monte Olimpo, Marte (NASA/JPL/USGS, Viking)"
+      }
+    }
+  ],
+  "title": "Olympus Mons: el volcán de Marte casi 3 veces más alto que el Everest #espacio",
+  "description": "El monte Olimpo se eleva unos 26 km sobre las llanuras de Marte y su base ronda los 600 km, más que el estado de Arizona. La Mariner 9 vio su cima asomar sobre una tormenta de polvo en 1971.",
+  "tags": [
+    "Olympus Mons",
+    "monte Olimpo",
+    "Marte",
+    "volcán",
+    "Mariner 9",
+    "sistema solar",
+    "NASA",
+    "espacio",
+    "Ciencia con Pruebas"
+  ],
+  "hashtags": [
+    "#espacio",
+    "#Marte",
+    "#astronomia",
+    "#shorts"
+  ],
+  "sources": [
+    "NASA/JPL Photojournal, PIA00300 «Olympus Mons» (Viking): https://www.jpl.nasa.gov/images/pia00300-olympus-mons/",
+    "NASA/JPL-Caltech/ASU, Mars Odyssey THEMIS, «Olympus Mons Lava Flows» (20 de mayo de 2020): https://www.jpl.nasa.gov/images/olympus-mons-lava-flows",
+    "NASA/JPL Photojournal, PIA02995 «Nix Olympica Identified by Mariner 9 on Mars Approach»: https://science.nasa.gov/photojournal/nix-olympica-identified-by-mariner-9-on-mars-approach"
+  ],
+  "remotion": false
+}

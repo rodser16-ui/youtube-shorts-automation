@@ -1,0 +1,154 @@
+{
+  "id": "021",
+  "slug": "fleming-penicilina",
+  "series": "CIENCIA",
+  "mood": "asombro",
+  "experiment": "EXP01",
+  "variant": "A",
+  "target_seconds": [
+    40,
+    45
+  ],
+  "hook_text": "MOHO CONTRA\nBACTERIAS",
+  "hook_seconds": 2.4,
+  "segments": [
+    {
+      "text": "En septiembre de 1928, un científico volvió de vacaciones y encontró moho en un cultivo.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Synthetic Production of Penicillin TR1468.jpg"
+        },
+        "motion": "zoom_in",
+        "focus": [
+          0.45,
+          0.55
+        ],
+        "label": "Alexander Fleming en su laboratorio (1943)"
+      }
+    },
+    {
+      "text": "Era Alexander Fleming, bacteriólogo del hospital St Mary's de Londres.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Professor Alexander Fleming at work in his laboratory at St Mary's Hospital, London, during the Second World War. D17801.jpg"
+        },
+        "motion": "pan_lr",
+        "label": "Fleming en el St Mary's, Londres (años cuarenta)"
+      }
+    },
+    {
+      "text": "Antes de irse, había dejado placas con bacterias sobre la mesa del laboratorio.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Culture plate of penicillium mould, London, England Wellcome L0059172.jpg"
+        },
+        "motion": "zoom_in",
+        "focus": [
+          0.5,
+          0.5
+        ],
+        "label": "Placa con moho Penicillium (Londres, 1963; no es la original)"
+      }
+    },
+    {
+      "text": "En una vio algo extraño: alrededor del moho, las bacterias se estaban deshaciendo.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Culture plate of penicillium mould, London, England Wellcome L0059175.jpg"
+        },
+        "motion": "zoom_in",
+        "zoom": [
+          1.0,
+          1.35
+        ],
+        "center": [
+          0.66,
+          0.38
+        ],
+        "marker": [
+          0.68,
+          0.36
+        ],
+        "marker_label": "Moho",
+        "label": "Placa con moho Penicillium (Londres, 1963)"
+      }
+    },
+    {
+      "text": "Llamó penicilina a la sustancia, por el moho Penicillium, y lo publicó en 1929.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Alexander-fleming.jpg"
+        },
+        "motion": "zoom_in",
+        "focus": [
+          0.5,
+          0.35
+        ],
+        "evidence": "Fleming, British Journal of Experimental Pathology, junio de 1929"
+      }
+    },
+    {
+      "text": "Pero no logró purificarla, y el hallazgo pasó casi una década sin aprovecharse.",
+      "visual": {
+        "kind": "title",
+        "text": "CASI DIEZ AÑOS\nSIN USARSE",
+        "bg": "prev"
+      }
+    },
+    {
+      "text": "En 1940, en Oxford, Howard Florey y Ernst Chain demostraron su poder curativo.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:PENICILLIN... SAVES SOLDIERS LIVES^ EVERY MINUTE SAVED IN BUILDING THIS PLANT MEANS A LIFE SAVED ON THE FIGHTING... - NARA - 515170.jpg"
+        },
+        "motion": "pan_ud",
+        "label": "Cartel de EE. UU., Segunda Guerra Mundial"
+      }
+    },
+    {
+      "text": "En 1945, los tres compartieron el Nobel. Todo empezó con un cultivo contaminado por accidente.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Nobelpristagare Fleming Midi.jpg"
+        },
+        "motion": "zoom_out",
+        "focus": [
+          0.55,
+          0.45
+        ],
+        "label": "Fleming recibe el Nobel de Gustavo V de Suecia, 10 de diciembre de 1945"
+      }
+    }
+  ],
+  "title": "Fleming volvió de vacaciones y encontró moho: así nació la penicilina #ciencia",
+  "description": "En septiembre de 1928, Alexander Fleming vio que un moho que había contaminado un cultivo destruía las bacterias de su alrededor. Hicieron falta otros doce años, y el trabajo de Florey y Chain, para convertirlo en medicamento.",
+  "tags": [
+    "Alexander Fleming",
+    "penicilina",
+    "antibióticos",
+    "historia de la ciencia",
+    "historia de la medicina",
+    "Florey y Chain",
+    "ciencia",
+    "Ciencia con Pruebas"
+  ],
+  "hashtags": [
+    "#ciencia",
+    "#historia",
+    "#penicilina",
+    "#shorts"
+  ],
+  "sources": [
+    "Fleming, A. (1929). On the antibacterial action of cultures of a penicillium. British Journal of Experimental Pathology 10(3):226-236: https://pmc.ncbi.nlm.nih.gov/articles/PMC2048009/",
+    "Science History Institute, «Alexander Fleming»: https://sciencehistory.org/historical-profile/alexander-fleming",
+    "The Nobel Prize in Physiology or Medicine 1945 (Fleming, Chain, Florey): https://www.nobelprize.org/prizes/medicine/1945/summary/"
+  ],
+  "remotion": false
+}

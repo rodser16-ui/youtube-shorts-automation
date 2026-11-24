@@ -1,0 +1,166 @@
+{
+  "id": "024",
+  "slug": "arquimedes-eureka",
+  "series": "HISTORIA",
+  "mood": "misterio",
+  "experiment": "EXP01",
+  "variant": "A",
+  "target_seconds": [
+    40,
+    45
+  ],
+  "hook_text": "¡EUREKA!\n¿HISTORIA O MITO?",
+  "hook_seconds": 2.4,
+  "segments": [
+    {
+      "text": "Arquímedes saltó del baño gritando «¡Eureka!». O eso se contó casi dos siglos después.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Euréka, La science populaire, 8 juillet1880.tif"
+        },
+        "motion": "zoom_in",
+        "zoom": [
+          1.0,
+          1.4
+        ],
+        "center": [
+          0.55,
+          0.5
+        ],
+        "label": "Arquímedes en La Science Populaire (1880)"
+      }
+    },
+    {
+      "text": "Lo cuenta Vitruvio, un arquitecto romano del siglo primero antes de Cristo.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Vitruvius, Florence, Plut. 30.10.jpg"
+        },
+        "motion": "zoom_in",
+        "focus": [
+          0.45,
+          0.25
+        ],
+        "evidence": "Vitruvio, De architectura, libro IX",
+        "label": "Manuscrito de De architectura, siglo XV (Florencia)"
+      }
+    },
+    {
+      "text": "Según él, el rey Hierón de Siracusa sospechaba que su corona de oro tenía plata.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Monnaie - Or, Syracuse, Sicile, Hiéron II - btv1b84790261 (1 of 2).jpg"
+        },
+        "motion": "zoom_in",
+        "focus": [
+          0.5,
+          0.5
+        ],
+        "label": "Moneda de oro acuñada bajo Hierón II de Siracusa"
+      }
+    },
+    {
+      "text": "Al meterse en el baño, Arquímedes vio desbordarse el agua.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Fotothek df tg 0001216 Mechanik ^ Kraft ^ Auftrieb ^ Gewicht.jpg"
+        },
+        "motion": "zoom_in",
+        "zoom": [
+          1.0,
+          1.3
+        ],
+        "center": [
+          0.35,
+          0.55
+        ],
+        "label": "Grabado alemán del siglo XVI"
+      }
+    },
+    {
+      "text": "Midió el agua que desbordaban la corona y un bloque de oro de igual peso. La corona desbordaba más.",
+      "visual": {
+        "kind": "title",
+        "text": "MISMO PESO,\nMÁS AGUA",
+        "bg": "prev"
+      }
+    },
+    {
+      "text": "Arquímedes nunca escribió sobre esto, y Galileo, en 1586, vio el método demasiado tosco.",
+      "visual": {
+        "kind": "timeline",
+        "points": [
+          {
+            "year": "212 a. C.",
+            "label": "Muere Arquímedes"
+          },
+          {
+            "year": "S. I a. C.",
+            "label": "Vitruvio lo cuenta"
+          },
+          {
+            "year": "1586",
+            "label": "Galileo duda"
+          }
+        ],
+        "active": 2,
+        "bg": "prev"
+      }
+    },
+    {
+      "text": "Lo que sí escribió fue un tratado sobre cuerpos flotantes, la base de la hidrostática.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Domenico-Fetti Archimedes 1620.jpg"
+        },
+        "motion": "pan_ud",
+        "label": "Retrato idealizado (Domenico Fetti, c. 1620)"
+      }
+    },
+    {
+      "text": "El grito quizá sea leyenda. Su principio, no.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Archimede bain.jpg"
+        },
+        "motion": "zoom_out",
+        "focus": [
+          0.4,
+          0.4
+        ],
+        "label": "Grabado del siglo XVI, coloreado"
+      }
+    }
+  ],
+  "title": "¿Gritó Arquímedes «¡Eureka!» en el baño? Lo que cuenta Vitruvio #historia",
+  "description": "La anécdota del «¡Eureka!» y la corona del rey Hierón la cuenta Vitruvio casi dos siglos después de Arquímedes. Él nunca la escribió, y Galileo dudó del método; su principio de flotación, en cambio, sí está en su obra.",
+  "tags": [
+    "Arquímedes",
+    "Eureka",
+    "Vitruvio",
+    "principio de Arquímedes",
+    "Galileo",
+    "corona de Hierón",
+    "historia de la ciencia",
+    "historia",
+    "Ciencia con Pruebas"
+  ],
+  "hashtags": [
+    "#historia",
+    "#ciencia",
+    "#arquimedes",
+    "#shorts"
+  ],
+  "sources": [
+    "Vitruvio, De architectura, libro IX, prefacio 9-12 (trad. Gwilt, en LacusCurtius): https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Vitruvius/9*.html",
+    "Scientific American, «Fact or Fiction?: Archimedes Coined the Term \"Eureka!\" in the Bath»: https://www.scientificamerican.com/article/fact-or-fiction-archimede/",
+    "C. Rorres, «The Golden Crown» y La Bilancetta de Galileo (NYU / Drexel): https://math.nyu.edu/Archimedes/Crown/bilancetta.html"
+  ],
+  "remotion": false
+}

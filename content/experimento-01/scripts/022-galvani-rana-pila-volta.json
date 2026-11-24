@@ -1,0 +1,152 @@
+{
+  "id": "022",
+  "slug": "galvani-rana-pila-volta",
+  "series": "CIENCIA",
+  "mood": "asombro",
+  "experiment": "EXP01",
+  "variant": "B",
+  "style": "cinematic",
+  "gap": 0.12,
+  "music_level": 0.11,
+  "target_seconds": [
+    30,
+    35
+  ],
+  "hook_text": "UNA RANA MUERTA\nSE MOVIÓ",
+  "hook_seconds": 2.3,
+  "segments": [
+    {
+      "text": "Una rana muerta movió las patas al tocarla con metal.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Luigi Galvani Experiment.jpeg"
+        },
+        "motion": "zoom_in",
+        "zoom": [
+          1.1,
+          1.8
+        ],
+        "center": [
+          0.14,
+          0.64
+        ],
+        "label": "Galvani, De viribus electricitatis (1791), lámina 1"
+      }
+    },
+    {
+      "text": "Pasó en Bolonia, en el laboratorio de Luigi Galvani.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Luigi Galvani, oil-painting.jpg"
+        },
+        "motion": "pan_du",
+        "label": "Luigi Galvani, retrato anónimo"
+      }
+    },
+    {
+      "text": "Galvani lo llamó «electricidad animal»: creía que el cuerpo fabricaba su propia electricidad.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:De Viribus Electricitatis in Motu Musculari, di Luigi Galvani, tavola 4.png"
+        },
+        "motion": "pan_lr",
+        "evidence": "Galvani, De viribus electricitatis in motu musculari, Bolonia, 1791"
+      }
+    },
+    {
+      "text": "Pero Alessandro Volta discrepaba: la corriente salía de los dos metales.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Alessandro Volta 01.jpg"
+        },
+        "motion": "zoom_in",
+        "zoom": [
+          1.0,
+          1.3
+        ],
+        "center": [
+          0.6,
+          0.55
+        ],
+        "marker": [
+          0.79,
+          0.86
+        ],
+        "marker_label": "Su pila",
+        "label": "Alessandro Volta junto a su pila"
+      }
+    },
+    {
+      "text": "Para demostrarlo, apiló discos de zinc y plata separados por cartón con agua salada.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Volta's pile and 'crown of cups'. Wellcome M0014526.jpg"
+        },
+        "motion": "zoom_in",
+        "zoom": [
+          1.0,
+          1.4
+        ],
+        "center": [
+          0.27,
+          0.42
+        ],
+        "evidence": "Volta, Philosophical Transactions, 1800"
+      }
+    },
+    {
+      "text": "En 1800 anunció su pila: la primera fuente de corriente continua.",
+      "visual": {
+        "kind": "steps",
+        "title": "DE LA RANA A LA PILA",
+        "items": [
+          "Patas que se mueven",
+          "Galvani: «electricidad animal»",
+          "Volta: dos metales",
+          "La pila, 1800"
+        ],
+        "bg": "prev"
+      }
+    },
+    {
+      "text": "¿Quién tenía razón? Los dos, a medias: nuestros nervios también funcionan con señales eléctricas.",
+      "visual": {
+        "image": {
+          "source": "commons",
+          "file": "File:Galvani frog legs experiment setup.png"
+        },
+        "motion": "fit",
+        "label": "Galvani, De viribus electricitatis (1791), lámina 2"
+      }
+    }
+  ],
+  "title": "Una rana muerta movió las patas… y acabó naciendo la pila eléctrica #ciencia",
+  "description": "Luigi Galvani creyó haber descubierto la «electricidad animal». Alessandro Volta pensó que la corriente salía de los metales y, para demostrarlo, inventó en 1800 la pila. Los dos acertaban a medias.",
+  "tags": [
+    "Galvani",
+    "Volta",
+    "pila de Volta",
+    "electricidad animal",
+    "historia de la ciencia",
+    "electricidad",
+    "física",
+    "ciencia",
+    "Ciencia con Pruebas"
+  ],
+  "hashtags": [
+    "#ciencia",
+    "#historia",
+    "#electricidad",
+    "#shorts"
+  ],
+  "sources": [
+    "APS News, «March 20, 1800: Volta describes the Electric Battery» (This Month in Physics History, 2006): https://www.aps.org/apsnews/2006/03/this-month-in-physics-history",
+    "IEEE Spectrum, «The Voltaic Pile, the First Battery»: https://spectrum.ieee.org/voltaic-pile-first-battery",
+    "Smithsonian Libraries, Galvani, De viribus electricitatis in motu musculari commentarius (Bolonia, 1791): https://library.si.edu/digital-library/book/aloysiigalvanid00galv"
+  ]
+}
